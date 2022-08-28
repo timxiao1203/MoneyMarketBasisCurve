@@ -24,13 +24,5 @@ A solution that tries to address this inconsistency issue is proposed. The main 
 
 Assuming there is no interest in pursuing a different solution in short term (thus eliminating more model risks), the classical approach can be considered reasonable. 
 
-Let us assume that we are given a discount factor curve PA (t, T), which we use to discount the A cash flow, and a discount factor curve PB (t, T), which we use to discount the B cash flow. Note that these two discounting curves are not assumed to be equal! 
+Let us assume that we are given a discount factor curve PA (t, T), which we use to discount the A cash flow (such as bond coupon payment schedule: https://finpricing.com/lib/FiBondCoupon.html), and a discount factor curve PB (t, T), which we use to discount the B cash flow. Note that these two discounting curves are not assumed to be equal! 
 
-
-Reference:
-
-https://finpricing.com/lib/EqCliquet.html
-
-https://zenodo.org/record/6615436#.Yp0KPqgpBD8
-
-https://zenodo.org/record/6615436/files/mmBasisCurve.pdf
